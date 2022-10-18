@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Yusuf Nasser
+
+I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and problem solving. C++ was my first programming language so I love doing work with it as well.
 
 <!--
 **yusufnasserdev/yusufnasserdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
