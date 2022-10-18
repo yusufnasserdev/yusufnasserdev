@@ -6,9 +6,9 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufnasserdev&show_icons=true&theme=github_dark&hide_border=true" alt="yusufnasserdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yusufnasserdev&theme=github-dark-blue&hide_border=true" alt="yusufnasserdev" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&theme=github_dark&hide_border=true" alt="yusufnasserdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yusufnasserdev&theme=github-dark-blue&hide_border=true" alt="yusufnasserdev" /></p>
 <!--
 **yusufnasserdev/yusufnasserdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
