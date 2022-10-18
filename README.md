@@ -8,7 +8,7 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 </div>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&theme=github_dark&hide_border=true" alt="yusufnasserdev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&theme=github_dark&hide_border=true&v=2" alt="yusufnasserdev" /></p>
 </div>
 
 <div align="center">
