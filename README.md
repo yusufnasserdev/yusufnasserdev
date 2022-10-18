@@ -3,8 +3,8 @@
 I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and problem solving. C++ was my first programming language so I love doing work with it as well.
 
 <div align="center">
-    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufnasserdev&langs_count=3&theme=github_dark&hide_border=true" alt="yusufnasserdev" />
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=yusufnasserdev&show_icons=true&theme=github_dark&hide_border=true" alt="yusufnasserdev" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufnasserdev&langs_count=3&theme=github_dark&hide_border=true" alt="yusufnasserdev" />
 </div>
 
 <!--
