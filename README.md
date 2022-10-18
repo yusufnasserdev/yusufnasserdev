@@ -7,10 +7,11 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=yusufnasserdev&show_icons=true&theme=github_dark&hide_border=true" alt="yusufnasserdev" />
 </div>
 
+<!--
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&theme=github_dark&hide_border=true&v=2" alt="yusufnasserdev" /></p>
 </div>
-
+-->
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yusufnasserdev&theme=github-dark-blue&hide_border=true" alt="yusufnasserdev" /></p>
 </div>
