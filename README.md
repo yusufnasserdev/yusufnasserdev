@@ -6,7 +6,7 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufnasserdev&langs_count=4&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Yusuf Nasser's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark)
+![Yusuf Nasser's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufnasserdev&show_icons=true&theme=github_dark)
 
 <!--
 **yusufnasserdev/yusufnasserdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
