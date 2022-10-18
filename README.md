@@ -13,7 +13,9 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 #
 
 ### 📫 How to reach me:
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/yusuf-nasser/)  &nbsp; 
+&NewLine;
+
+&nbsp;&nbsp;&nbsp;&nbsp;  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/yusuf-nasser/)  &nbsp; 
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="4%"/>](https://twitter.com/yusufnasserdev)  &nbsp;
   [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="4%"/>](https://www.facebook.com/yosifenasser/)  &nbsp;
   <a href="mailto:yusufnassereng@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
