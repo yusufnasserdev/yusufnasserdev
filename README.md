@@ -2,11 +2,11 @@
 
 I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and problem solving. C++ was my first programming language so I love doing work with it as well.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufnasserdev&langs_count=4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufnasserdev&langs_count=4&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Yusuf Nasser's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark)
 
 <!--
 **yusufnasserdev/yusufnasserdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
