@@ -4,6 +4,7 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufnasserdev&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yusufnasserdev/yusufnasserdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
