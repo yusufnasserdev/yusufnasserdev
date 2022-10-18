@@ -19,12 +19,12 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
   <a href="mailto:yusufnassereng@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
 
 #
-<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufnasserdev&show_icons=true&theme=github_dark&hide_border=true&line_height=27" alt="yusufnasserdev" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufnasserdev&langs_count=3&theme=github_dark&hide_border=true" alt="yusufnasserdev" />
-</a>
 </div>
+</a>
 
 <!--
 <div align="center">
