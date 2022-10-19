@@ -26,11 +26,11 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufnasserdev&langs_count=3&theme=github_dark&hide_border=true" alt="yusufnasserdev" />
 </div>
 
-<!--
+
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&theme=github_dark&hide_border=true&v=2" alt="yusufnasserdev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&theme=github_dark&hide_border=true&v=2&langs_count=4" alt="yusufnasserdev" /></p>
 </div>
--->
+
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
