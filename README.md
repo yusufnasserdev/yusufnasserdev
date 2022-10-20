@@ -10,7 +10,6 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 - ⚡ Fun fact: **House, M.D. is my favorite show**
 
-#
 
 
 ## Connect with me:
@@ -23,7 +22,6 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 </div>
 
-#
 ## Languages:
 &NewLine;
 
@@ -32,8 +30,6 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
     <img src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,cs,js,html,css,python" />
 </p>
 </div>
-
-#
 
 ## Tools and Frameworks:
 &NewLine;
