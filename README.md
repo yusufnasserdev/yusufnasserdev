@@ -26,9 +26,9 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 &NewLine;
 
 <div align="center">
-<p title="zebi">
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,cs,js,html,css,python" />
-</p>
+</a>
 </div>
 
 ## Tools and Frameworks:
