@@ -27,7 +27,7 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 <div align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,cs,js,html,css,python" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,cs,js,html,css,py" />
 </a>
 </div>
 
@@ -36,7 +36,7 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 <div align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,git,bash,linux,blender,nodejs,qt" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,git,bash,linux,blender,nodejs,qt,sqlite,mysql,tensorflow,regex,pytorch&perline=7" />
   </a>
 </div>
 
