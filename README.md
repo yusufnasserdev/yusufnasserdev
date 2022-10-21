@@ -3,6 +3,7 @@
 <div align="center">
 I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and problem solving. C++ was my first programming language so I love doing work with it as well.
 </div>
+
 #
 
 - 🌱 I’m currently learning **Android**
