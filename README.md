@@ -49,7 +49,9 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 # 
 
 <div align="center">
-<a href="https://wakatime.com/@yusufnasserdev" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&&theme=github_dark&hide_border=true&v=2&langs_count=4&custom_title=Time Spent Coding (Last 7 days)" alt="yusufnasserdev" /></a>
+<a href="https://wakatime.com/@yusufnasserdev" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&&theme=github_dark&hide_border=true&v=2&langs_count=4" alt="yusufnasserdev"/>
+</a>
 </div>
 
 
@@ -58,7 +60,5 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 #
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yusufnasserdev&theme=github-dark-blue&hide_border=true" alt="yusufnasserdev" />
-</a>
 </div>
