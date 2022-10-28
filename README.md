@@ -31,22 +31,12 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 <!-- GitHub Stats -->
 
-#
+## Stats:
+
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufnasserdev&show_icons=true&theme=github_dark&hide_border=true&line_height=27&card_width=390px" alt="yusufnasserdev GitHub stats" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufnasserdev&langs_count=3&theme=github_dark&hide_border=true" alt="yusufnasserdev most used languages" />
 </div>
-
-<!-- WakaTime Stats -->
-
-# 
-
-<div align="center">
-<a href="https://wakatime.com/@yusufnasserdev" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&&theme=github_dark&hide_border=true&v=2&langs_count=4" alt="yusufnasserdev"/>
-</a>
-</div>
-
 
 <!-- Streak -->
 
@@ -54,4 +44,14 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yusufnasserdev&theme=github-dark-blue&hide_border=true" alt="yusufnasserdev" />
+</div>
+
+<!-- WakaTime Stats -->
+
+## Time Spent Coding (last 7 days):
+
+<div align="center">
+<a href="https://wakatime.com/@yusufnasserdev" target="_blank">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&&theme=github_dark&hide_border=true&v=2&langs_count=4" alt="yusufnasserdev"/>
+</a>
 </div>
