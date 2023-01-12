@@ -31,6 +31,7 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 <!-- GitHub Stats -->
 
+<!-- Till the issue is resolved
 ## Stats:
 
 <div align="center">
