@@ -43,7 +43,7 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 #
 
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?username=yusufnasserdev&theme=github-dark-blue&hide_border=true" alt="yusufnasserdev" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yusufnasserdev&theme=github-dark-blue&hide_border=true" alt="yusufnasserdev" />
 </div>
 
 <!-- WakaTime Stats -->
