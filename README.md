@@ -34,8 +34,8 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 ## Stats:
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yusufnasserdev&show_icons=true&theme=github_dark&hide_border=true&line_height=27&card_width=390px&env=PAT_1" alt="yusufnasserdev GitHub stats" />
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yusufnasserdev&langs_count=3&theme=github_dark&hide_border=true&env=PAT_1" alt="yusufnasserdev most used languages" />
+    <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yusufnasserdev&show_icons=true&theme=github_dark&hide_border=true&line_height=27&card_width=390px&env=PAT_1" alt="yusufnasserdev GitHub stats" />
+    <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yusufnasserdev&langs_count=3&theme=github_dark&hide_border=true&env=PAT_1" alt="yusufnasserdev most used languages" />
 </div>
 
 <!-- Streak -->
