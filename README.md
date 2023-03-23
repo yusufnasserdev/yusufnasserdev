@@ -48,7 +48,7 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 <!-- WakaTime Stats -->
 
-## Time Spent Coding (last 7 days):
+## Coding Activity (last 7 days):
 
 <div align="center">
 <a href="https://wakatime.com/@yusufnasserdev" target="_blank">
