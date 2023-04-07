@@ -4,7 +4,7 @@
 I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and problem solving. C++ was my first programming language so I love doing work with it as well. I also have a keen interest in Machine Learning and Business Intelligence.
 </div>
 
-## Connect with me:
+## Connect with me
 <div align="center">
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/yusuf-nasser/)  &nbsp; 
@@ -15,14 +15,14 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 </div>
 
-## Languages:
+## Languages
 &NewLine;
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,cs,js,html,css,py" />
 </div>
 
-## Tools and Frameworks:
+## Tools and Frameworks
 &NewLine;
 
 <div align="center">
@@ -31,7 +31,7 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 <!-- GitHub Stats -->
 
-## Stats:
+## Stats
 
 <div align="center">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yusufnasserdev&show_icons=true&theme=github_dark&hide_border=true&line_height=27&card_width=390px&env=PAT_1" alt="yusufnasserdev GitHub stats" />
@@ -48,7 +48,7 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 <!-- WakaTime Stats -->
 
-## Coding Activity (last 7 days):
+## Coding Activity (last 7 days)
 
 <div align="center">
 <a href="https://wakatime.com/@yusufnasserdev" target="_blank">
