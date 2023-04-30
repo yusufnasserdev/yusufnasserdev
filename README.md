@@ -48,7 +48,7 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 </div>
 
 <!-- WakaTime Stats -->
-
+<!--  
 ## Coding Activity (last 7 days)
 
 <div align="center">
@@ -56,3 +56,4 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&&theme=github_dark&hide_border=true&v=2&langs_count=4" alt="yusufnasserdev"/>
 </a>
 </div>
+-->
