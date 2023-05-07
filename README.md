@@ -61,14 +61,7 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 <div align="center">
 
 <a href="https://wakatime.com/@yusufnasserdev" target="_blank">
-<img align="center" src="https://wakatime.com/share/@yusufnasserdev/761bad9f-a7b1-4fba-b4b0-f7bb1bdeafc1.png" alt="yusufnasserdev" class="dynamic-resize"/>
+<img align="center" src="https://wakatime.com/share/@yusufnasserdev/761bad9f-a7b1-4fba-b4b0-f7bb1bdeafc1.png" alt="yusufnasserdev" width="40%"/>
 </a>
-
-<style>
-.dynamic-resize {
-  max-width: 60%;
-  height: auto;
-}
-</style>
 
 </div>
