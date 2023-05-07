@@ -60,6 +60,6 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 <div align="center">
   <a href="https://wakatime.com/@yusufnasserdev" target="_blank">
-    <img src="https://wakatime.com/share/@yusufnasserdev/54d94759-faff-4573-8bcd-4af5765e9bd1.svg" alt="Wakatime Statistics" width="40%"/>
+    <img src="https://wakatime.com/share/@yusufnasserdev/54d94759-faff-4573-8bcd-4af5765e9bd1.svg" alt="Wakatime Statistics" width="75%"/>
   </a>
 </div>
