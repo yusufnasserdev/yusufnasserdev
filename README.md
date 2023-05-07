@@ -50,16 +50,9 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 <!-- WakaTime Stats -->
 ## Coding Activity (last 7 days)
 
-<!--  
+  
 <div align="center">
 <a href="https://wakatime.com/@yusufnasserdev" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&&theme=github_dark&hide_border=true&v=2&langs_count=4" alt="yusufnasserdev"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&&theme=github_dark&hide_border=true&v=2&langs_count=4&range=last_7_days" alt="yusufnasserdev"/>
 </a>
-</div>
--->
-
-<div align="center">
-  <a href="https://wakatime.com/@yusufnasserdev" target="_blank">
-    <img src="https://wakatime.com/share/@yusufnasserdev/54d94759-faff-4573-8bcd-4af5765e9bd1.svg" alt="Wakatime Statistics" width="75%"/>
-  </a>
 </div>
