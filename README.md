@@ -4,9 +4,6 @@
 I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and problem solving. C++ was my first programming language so I love doing work with it as well. I also have a keen interest in Machine Learning and Business Intelligence.
 </div>
 
-## About Me
-- ⚡ Fun fact: my **all time** typing speed is [**92.9 wpm**](https://www.keybr.com/profile/s5uvlsl).
-
 ## Connect with me
 <div align="center">
 
@@ -57,3 +54,6 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&&theme=github_dark&hide_border=true&v=2&langs_count=4&range=last_7_days" alt="yusufnasserdev"/>
 </a>
 </div>
+
+## About Me
+- ⚡ Fun fact: my **all time** typing speed is [**92.9 wpm**](https://www.keybr.com/profile/s5uvlsl).
