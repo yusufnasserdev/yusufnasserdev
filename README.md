@@ -51,7 +51,7 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
   
 <div align="center">
 <a href="https://wakatime.com/@yusufnasserdev" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&&theme=github_dark&hide_border=true&v=2&langs_count=4&range=last_7_days" alt="yusufnasserdev"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusufnasserdev&&theme=github_dark&hide_border=true&hide=Other&v=2&langs_count=4&range=last_7_days" alt="yusufnasserdev"/>
 </a>
 </div>
 
