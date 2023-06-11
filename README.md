@@ -29,7 +29,7 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 </div>
 
 <!-- GitHub Stats -->
-
+<!-- 
 ## Stats
 
 <div align="center">
