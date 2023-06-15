@@ -44,7 +44,6 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yusufnasserdev&theme=github-dark-blue&hide_border=true" alt="yusufnasserdev" />
 </div>
-<!-- 
 <!-- WakaTime Stats 
 ## Coding Activity (last 7 days)
 
@@ -55,5 +54,6 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 </a>
 </div>
 -->
+
 ## About Me
 - ⚡ Fun fact: my **all time** typing speed is [**92.9 wpm**](https://www.keybr.com/profile/s5uvlsl).
