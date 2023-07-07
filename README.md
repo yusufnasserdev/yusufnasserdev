@@ -58,4 +58,4 @@ I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and pr
 
 
 ## About Me
-- ⚡ Fun fact: my **all time** typing speed is [**93.8 wpm**](https://www.keybr.com/profile/s5uvlsl).
+- ⚡ Fun fact: my **all time** typing speed is [**99.5 wpm**](https://www.keybr.com/profile/s5uvlsl).
