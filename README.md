@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Yusuf Nasser
 
 <div align="center">
-I'm Yusuf from Egypt, and I do Android Development. I really enjoy coding and problem solving. C++ was my first programming language so I love doing work with it as well. I also have a keen interest in Machine Learning and Business Intelligence.
+I am Yusuf Nasser, a software engineer with over 5 years of experience in the industry. I specialize in Android development, but I am also proficient in a number of other programming languages, including Java, Kotlin, C++, and Python. I have a strong foundation in computer science and a passion for problem solving. I am also a team player and am always willing to help others.
 </div>
 
 ## Connect with me
