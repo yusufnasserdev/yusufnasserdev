@@ -46,7 +46,7 @@ I'm a software engineer with over 5 years of experience in the industry. I speci
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yusufnasserdev&theme=github-dark-blue&hide_border=true" alt="yusufnasserdev" />
 </div>
 
-<!-- WakaTime Stats -->
+<!-- WakaTime Stats 
 
 ## Coding Activity (last 7 days)
 
@@ -57,6 +57,6 @@ I'm a software engineer with over 5 years of experience in the industry. I speci
 </a>
 </div>
 
-
+-->
 ## About Me
 - ⚡ Fun fact: my **all time** typing speed is [**108 wpm**](https://www.keybr.com/profile/s5uvlsl).
