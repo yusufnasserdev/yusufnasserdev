@@ -38,13 +38,14 @@ I'm a software engineer with over 5 years of experience in the industry. I speci
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yusufnasserdev&langs_count=3&theme=github_dark&hide_border=true&env=PAT_1" alt="yusufnasserdev most used languages" />
 </div>
  -->
-<!-- Streak -->
+<!-- Streak 
 
 ## Streak
 
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yusufnasserdev&theme=github-dark-blue&hide_border=true" alt="yusufnasserdev" />
 </div>
+-->
 
 <!-- WakaTime Stats 
 
