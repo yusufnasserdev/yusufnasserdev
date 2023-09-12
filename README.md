@@ -19,7 +19,7 @@ I'm a software engineer with over 5 years of experience in the industry. I speci
 &NewLine;
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,cs,js,html,css,py" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,cs,py" />
 </div>
 
 ## Tools and Frameworks
