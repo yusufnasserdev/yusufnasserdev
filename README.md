@@ -26,7 +26,7 @@ I'm a software engineer with over 5 years of experience in the industry. I speci
 &NewLine;
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,visualstudio,vscode,git,bash,linux,nodejs,qt,sqlite,mysql" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,visualstudio,vscode,git,bash,linux,sqlite,mysql" />
 </div>
 
 <!-- GitHub Stats
