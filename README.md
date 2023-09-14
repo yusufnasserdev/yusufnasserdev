@@ -15,14 +15,13 @@ I'm a software engineer with over 5 years of experience in the industry. I speci
 
 <!--  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:yusufnassereng@gmail.com)  &nbsp;   -->
 
-## Languages
+## Languages, Tools and Frameworks
 &NewLine;
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,cs,py" />
 </div>
 
-## Tools and Frameworks
 &NewLine;
 
 <div align="center">
