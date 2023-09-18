@@ -4,6 +4,8 @@
 I'm a software engineer with over 5 years of experience in the industry. I specialize in Android development, but I am also proficient in a number of other programming languages, including Java, Kotlin, C++, and Python. I have a strong foundation in computer science and a passion for problem solving. I am also a team player and am always willing to help others.
 </div>
 
+<!--
+
 ## Connect with me
 <div align="center">
 
@@ -12,9 +14,10 @@ I'm a software engineer with over 5 years of experience in the industry. I speci
   [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/yosifenasser/)  &nbsp;
   [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/yusufnasser/)  &nbsp;
 </div>
+-->
 
-<!--  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:yusufnassereng@gmail.com)  &nbsp;   -->
-
+<!--  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:yusufnassereng@gmail.com)  &nbsp;   --> 
+ 
 ## Languages, Tools and Frameworks
 &NewLine;
 
