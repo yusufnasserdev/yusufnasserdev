@@ -4,6 +4,9 @@
 I'm a software engineer with over 5 years of experience in the industry. I specialize in Android development, but I am also proficient in a number of other programming languages, including Java, Kotlin, C++, and Python. I have a strong foundation in computer science and a passion for problem solving. I am also a team player and am always willing to help others.
 </div>
 
+## About Me
+- ⚡ Fun fact: my **all time** typing speed is [**108 wpm**](https://www.keybr.com/profile/s5uvlsl).
+
 <!--
 
 ## Connect with me
@@ -61,6 +64,3 @@ I'm a software engineer with over 5 years of experience in the industry. I speci
 </div>
 
 -->
-
-## About Me
-- ⚡ Fun fact: my **all time** typing speed is [**108 wpm**](https://www.keybr.com/profile/s5uvlsl).
