@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Yusuf Nasser
 
 <div align="center">
-I'm a software engineer with over 5 years of experience in the industry. I specialize in Android development, but I am also proficient in a number of other programming languages, including Java, Kotlin, C++, and Python. I have a strong foundation in computer science and a passion for problem solving. I am also a team player and am always willing to help others.
+I'm a software engineer with over 5 years of experience in the industry. I specialize in Android development, but I am also proficient in other programming languages, including Java, Kotlin, C++, and Python for Machine Learning tasks. I have a strong foundation in cs and a passion for problem solving. I am a team player and am always willing to help others.
 </div>
 
 ## About Me
