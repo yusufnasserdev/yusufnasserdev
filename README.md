@@ -28,7 +28,7 @@ I'm a software engineer with over 5 years of experience in the industry. I speci
     <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,cs,py" />
 </div>
 
-&NewLine;
+<!-- &NewLine; -->
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,firebase,visualstudio,vscode,git,bash,linux,sqlite,mysql" />
