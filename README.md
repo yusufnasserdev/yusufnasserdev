@@ -5,7 +5,7 @@ I'm a software engineer with over 5 years of experience. I specialize in Android
 </div>
 
 ## About Me
-- ⚡ Fun fact: my **all time** typing speed is [**108 wpm**](https://www.keybr.com/profile/s5uvlsl).
+- ⚡ Fun fact: my **all time high** typing speed is [**108 wpm**](https://www.keybr.com/profile/s5uvlsl).
 
 <!--
 
