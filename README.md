@@ -25,13 +25,13 @@ I'm an aspiring software engineer. I specialize in application development with 
 &NewLine;
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,cs,py" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,c,cpp,cs,py" />
 </div>
 
 <!-- &NewLine; -->
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,visualstudio,vscode,git,bash,linux,sqlite,mysql" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,gradle,visualstudio,idea,vscode,neovim,git,bash,linux,debian,firebase,sqlite,mysql" />
 </div>
 
 <!-- GitHub Stats
