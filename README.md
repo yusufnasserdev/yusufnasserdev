@@ -5,7 +5,7 @@ I'm an aspiring software engineer. I specialize in application development with 
 </div>
 
 ## About Me
-- ⚡ Fun fact: my **all time high** typing speed is [**108 wpm**](https://www.keybr.com/profile/s5uvlsl).
+- ⚡ Fun fact: my **all time high** typing speed is [**108 wpm**](https://monkeytype.com/profile/yunasdev).
 
 <!--
 
