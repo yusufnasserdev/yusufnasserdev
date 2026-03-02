@@ -5,6 +5,7 @@ I'm an aspiring software engineer. I specialize in application development with 
 </div>
 
 ## About Me
+- 📃 Resume Link: [Drive Link](https://drive.google.com/file/d/1iqWFVtHIL-8PdVrGdjjjZAK6EmJm95TJ/view?usp=sharing)
 - ⚡ Fun fact: my **all time high** typing speed is [**119 wpm**](https://monkeytype.com/profile/yunasdev).
 
 <!--
